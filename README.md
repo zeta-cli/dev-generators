@@ -1,2 +1,2 @@
-# utils-yo-generators
-Zeta Yeoman Generators
+# dev-generators
+Zeta Yeoman Development Generators
